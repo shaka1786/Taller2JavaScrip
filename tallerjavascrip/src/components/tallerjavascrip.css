@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f6fa;
+  margin: 0;
+  padding: 20px;
+  
+}
+
+/* Contenedor principal */
+.taller-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* espacio entre las tarjetas */
+  
+}
+
+/* Tarjeta individual */
+.taller-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  background-color: rgb(126, 171, 177);
+}
+ 

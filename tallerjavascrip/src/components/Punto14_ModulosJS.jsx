@@ -2,7 +2,7 @@
 // Importamos las funciones desde math.js
 
 
-import {sumar, restar} from "./components/math.js"
+import {sumar, restar} from "./math.js"
 
 
 export function Punto14_ModulosJS() {
