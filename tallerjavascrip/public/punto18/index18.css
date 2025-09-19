@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  border-radius: 20px;
+
+  
+}
+
+.completada {
+  text-decoration: line-through;
+  color: gray;
+}
+
+button {
+  margin-left: 8px;
+  padding: 4px 8px;
+  cursor: pointer;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
