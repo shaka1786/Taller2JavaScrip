@@ -3,10 +3,10 @@ import { Punto2_TemplateStrings } from './components/Punto2_TemplateStrings'
 import { Punto3_Operador } from './components/Punto3_Operador'
 import { Punto4_Desestructuracion } from './components/Punto4_Desestructuracion'
 import { Punto5_SpreadRest } from './components/Punto5_SpreadRest'
-import { Punto6_Array_methods } from './components/Punto6_Array_methods'
+import { Punto6_Array_methods } from './components/Punto6_Array methods'
 import { Punto7_Ordenamiento } from './components/Punto7_Ordenamiento'
 import { Punto8_BuscarArrays } from './components/Punto8_BuscarArrays'
-import { Punto9_callbacks } from './components/Punto9_callbacks'
+import { Punto9_Callbacks } from './components/Punto9_callbacks'
 import { Punto10_Promesas } from './components/Punto10_Promesas'
 import { Punto11_AsyncAwait } from './components/Punto11_AsyncAwait'
 import { Punto12_SimulacionAPI } from './components/Punto12_SimulacionAPI'
@@ -31,7 +31,7 @@ return(
       <div className="taller-card"><Punto6_Array_methods/></div>
       <div className="taller-card"><Punto7_Ordenamiento/></div>
       <div className="taller-card"><Punto8_BuscarArrays/></div>
-      <div className="taller-card"><Punto9_callbacks/></div>
+      <div className="taller-card"><Punto9_Callbacks/></div>
       <div className="taller-card"><Punto10_Promesas/></div>
       <div className="taller-card"><Punto11_AsyncAwait/></div>
       <div className="taller-card"><Punto12_SimulacionAPI/></div>
